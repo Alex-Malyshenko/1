@@ -1,0 +1,15 @@
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.deps.json
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.runtimeconfig.json
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.dll
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/ref/Example001_Hello_Console.dll
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.pdb
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.csproj.AssemblyReference.cache
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.AssemblyInfoInputs.cache
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.AssemblyInfo.cs
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.csproj.CoreCompileInputs.cache
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.dll
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/ref/Example001_Hello_Console.dll
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.pdb
+/home/alex/GeekBrains/C#_Exp/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.genruntimeconfig.cache
