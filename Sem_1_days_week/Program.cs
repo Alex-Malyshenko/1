@@ -8,36 +8,41 @@ if (number == 1)
 {
     Console.WriteLine("Он называется : Понедельник");
 }
- 
-if (number == 2)
+
+else if (number == 2)
 
 {
     Console.WriteLine("Он называется : Вторник");
 }
- if (number == 3)
+else if (number == 3)
 
 {
     Console.WriteLine("Он называется : Среда");
 }
- if (number == 4)
+else if (number == 4)
 
 {
     Console.WriteLine("Он называется : Четверг");
 }
- 
-if (number == 5)
+
+else if (number == 5)
 
 {
     Console.WriteLine("Он называется : Пятница");
 }
- if (number == 6)
+else if (number == 6)
 
 {
     Console.WriteLine("Он называется : Суббота");
 }
- if (number == 7)
+else if (number == 7)
 
 {
     Console.WriteLine("Он называется : Воскресенье");
 }
- 
+
+else
+
+{
+    Console.WriteLine("Такого дня нет");
+}
