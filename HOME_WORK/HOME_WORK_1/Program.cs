@@ -6,11 +6,11 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
-Console.Write("Введите первое число: ");
-int numberOne = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите первое вещественное число: ");
+double numberOne = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Введите второе число: ");
-int numberTwo = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите второе вещественное число: ");
+double numberTwo = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine();
 
 
