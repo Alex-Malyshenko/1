@@ -20,5 +20,5 @@ if (numberOne > numberTwo)
 }
 else
 {
-    Console.WriteLine($"Число {numberTwo} числа {numberOne}");
+    Console.WriteLine($"Число {numberTwo} больше числа {numberOne}");
 }
