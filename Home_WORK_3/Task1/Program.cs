@@ -28,4 +28,3 @@ else
     Console.WriteLine("Attention! This number is not a polydrome !");
 }
 
-
