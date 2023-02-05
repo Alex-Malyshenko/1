@@ -1,4 +1,10 @@
-﻿int GetNumber(string message)
+﻿/*
+Задать двумерный массив, заполненный случайными числами.
+
+*/
+
+
+int GetNumber(string message)
 {
     int result = 0;
     Console.WriteLine(message);
