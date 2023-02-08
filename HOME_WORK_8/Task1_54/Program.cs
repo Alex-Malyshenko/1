@@ -22,7 +22,7 @@ int GetNumber(string message)
         if(int.TryParse(Console.ReadLine(), out result) && result > 0)
             break;
         else
-            Console.WriteLine("Вы ввелин не корректное число. Повторите ввод"); 
+            Console.WriteLine("You entered an incorrect number. Repeat the input"); 
     }
 
     return result;
